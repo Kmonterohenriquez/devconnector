@@ -18,6 +18,8 @@
 .env.test.local
 .env.production.local
 .env
+# Connections and Keys
+/config
 
 npm-debug.log*
 yarn-debug.log*
